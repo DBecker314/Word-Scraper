@@ -4,8 +4,8 @@ from docx import Document
 import pandas as pd
 
 # Inputs
-input_path = input("Input DOCX File or Folder Here: ")
-input_save = input("Output CSV File as: ")
+input_path = input("INPUT DOCX FILE OR FOLDER PATH HERE: ")
+input_save = input("OUTPUT CSV FILE AS: ")
 
 # Create lists of all documents and paragraphs from input file or folder
 document_list = []
