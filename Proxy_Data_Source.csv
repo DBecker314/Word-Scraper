@@ -1,0 +1,139 @@
+,Document,Paragraph
+0,(U) PROXY DATA WORD FORMAT vAB2,     Proxy Assessment Report 23-1
+1,(U) PROXY DATA WORD FORMAT vAB2,
+2,(U) PROXY DATA WORD FORMAT vAB2,Controlled by: TEXT2
+3,(U) PROXY DATA WORD FORMAT vAB2,Controlled by: TEXT3
+4,(U) PROXY DATA WORD FORMAT vAB2,CUI Categories: TEXT4
+5,(U) PROXY DATA WORD FORMAT vAB2,Distribution/Dissemination Control: TEXT5
+6,(U) PROXY DATA WORD FORMAT vAB2,POC: TEXT6
+7,(U) PROXY DATA WORD FORMAT vAB2,
+8,(U) PROXY DATA WORD FORMAT vAB2,"This Assessment Report contains three information main blocks, with subtopics added by individuals as required.  Subtopics are divided into three sections."
+9,(U) PROXY DATA WORD FORMAT vAB2,
+10,(U) PROXY DATA WORD FORMAT vAB2,
+11,(U) PROXY DATA WORD FORMAT vAB2,BLOCK 1
+12,(U) PROXY DATA WORD FORMAT vAB2,
+13,(U) PROXY DATA WORD FORMAT vAB2,01. Topic: FIRST SUB TOPIC.  NUMBERING MAY BE INCONSITENT.  
+14,(U) PROXY DATA WORD FORMAT vAB2,
+15,(U) PROXY DATA WORD FORMAT vAB2,Discussion:  The numbering of the subtopics from 01 and on may be inconsistent because they are added by individuals and then emailed to a central person for aggregation.    
+16,(U) PROXY DATA WORD FORMAT vAB2,
+17,(U) PROXY DATA WORD FORMAT vAB2,"Recommendation: The Assessment Report should be sent as SharePoint link for work by multiple individuals.  The assessment report, while text dense, should offer a filterable table of the Sub topics, Discussions, Recommendation, and Results."
+18,(U) PROXY DATA WORD FORMAT vAB2,
+19,(U) PROXY DATA WORD FORMAT vAB2,Result: Immediate
+20,(U) PROXY DATA WORD FORMAT vAB2,
+21,(U) PROXY DATA WORD FORMAT vAB2,02. Topic: SECOND SUB TOPIC. BURIED INFORMATION. 
+22,(U) PROXY DATA WORD FORMAT vAB2, 
+23,(U) PROXY DATA WORD FORMAT vAB2,"Discussion: Information entered into Word or PowerPoint is extremely difficult to extract.  Structured data, like that found in Excel tables, is much easier to Extract, Transform, and Load (ETL).  ETL is necessary to use advanced tools like Data Modeling, Pivot Tables, and Slicers.     "
+24,(U) PROXY DATA WORD FORMAT vAB2,
+25,(U) PROXY DATA WORD FORMAT vAB2,"Recommendation:  To the maximum extent possible, information should be entered in Excel in structured table format."
+26,(U) PROXY DATA WORD FORMAT vAB2,
+27,(U) PROXY DATA WORD FORMAT vAB2,Result: Immediate
+28,(U) PROXY DATA WORD FORMAT vAB2,
+29,(U) PROXY DATA WORD FORMAT vAB2,BLOCK 2
+30,(U) PROXY DATA WORD FORMAT vAB2,
+31,(U) PROXY DATA WORD FORMAT vAB2,04. Topic:  TRAINING
+32,(U) PROXY DATA WORD FORMAT vAB2,
+33,(U) PROXY DATA WORD FORMAT vAB2,"Discussion:  In general, computer skills are weak or outdated.  "
+34,(U) PROXY DATA WORD FORMAT vAB2,
+35,(U) PROXY DATA WORD FORMAT vAB2,Recommendation:  Demonstrate the advantages of advanced software tools like Excel Power Query and Power Pivot to general users.    
+36,(U) PROXY DATA WORD FORMAT vAB2,
+37,(U) PROXY DATA WORD FORMAT vAB2,Result: Immediate
+38,(U) PROXY DATA WORD FORMAT vAB2,
+39,(U) PROXY DATA WORD FORMAT vAB2,BLOCK 3
+40,(U) PROXY DATA WORD FORMAT vAB2,
+41,(U) PROXY DATA WORD FORMAT vAB2,06. Topic: FRICTION
+42,(U) PROXY DATA WORD FORMAT vAB2,"Discussion: While very experienced, most employees have been trained to function according to principles of military hierarchy.  However, the modern battlefield rewards speed and agility over fixed processes or rigid structures.  "
+43,(U) PROXY DATA WORD FORMAT vAB2,Recommendation: Discuss the pros and cons of speed vs. structure. 
+44,(U) PROXY DATA WORD FORMAT vAB2,
+45,(U) PROXY DATA WORD FORMAT vAB2,Result: Commander’s Assessment Program
+46,Proxy Data 2,Proxy Assessment Report 24-1
+47,Proxy Data 2,
+48,Proxy Data 2,Controlled by: TEXT2
+49,Proxy Data 2,Controlled by: TEXT3
+50,Proxy Data 2,CUI Categories: TEXT4
+51,Proxy Data 2,Distribution/Dissemination Control: TEXT5
+52,Proxy Data 2,POC: TEXT6
+53,Proxy Data 2,
+54,Proxy Data 2,"This Assessment Report contains three information main blocks, with subtopics added by individuals as required.  Subtopics are divided into three sections."
+55,Proxy Data 2,
+56,Proxy Data 2,
+57,Proxy Data 2,BLOCK 1
+58,Proxy Data 2,
+59,Proxy Data 2,07. Topic: FIRST SUB TOPIC.  NUMBERING MAY BE INCONSITENT.  
+60,Proxy Data 2,
+61,Proxy Data 2,Discussion:  The numbering of the subtopics from 01 and on may be inconsistent because they are added by individuals and then emailed to a central person for aggregation.    
+62,Proxy Data 2,
+63,Proxy Data 2,"Recommendation: The Assessment Report should be sent as SharePoint link for work by multiple individuals.  The assessment report, while text dense, should offer a filterable table of the Sub topics, Discussions, Recommendation, and Results."
+64,Proxy Data 2,
+65,Proxy Data 2,Result: Immediate
+66,Proxy Data 2,
+67,Proxy Data 2,08. Topic: SECOND SUB TOPIC. BURIED INFORMATION. 
+68,Proxy Data 2, 
+69,Proxy Data 2,"Discussion: Information entered into Word or PowerPoint is extremely difficult to extract.  Structured data, like that found in Excel tables, is much easier to Extract, Transform, and Load (ETL).  ETL is necessary to use advanced tools like Data Modeling, Pivot Tables, and Slicers.     "
+70,Proxy Data 2,
+71,Proxy Data 2,"Recommendation:  To the maximum extent possible, information should be entered in Excel in structured table format."
+72,Proxy Data 2,
+73,Proxy Data 2,Result: Immediate
+74,Proxy Data 2,
+75,Proxy Data 2,BLOCK 2
+76,Proxy Data 2,
+77,Proxy Data 2,09. Topic:  TRAINING
+78,Proxy Data 2,
+79,Proxy Data 2,"Discussion:  In general, computer skills are weak or outdated.  "
+80,Proxy Data 2,
+81,Proxy Data 2,Recommendation:  Demonstrate the advantages of advanced software tools like Excel Power Query and Power Pivot to general users.    
+82,Proxy Data 2,
+83,Proxy Data 2,Result: Immediate
+84,Proxy Data 2,
+85,Proxy Data 2,BLOCK 3
+86,Proxy Data 2,
+87,Proxy Data 2,10. Topic: FRICTION
+88,Proxy Data 2,"Discussion: While very experienced, most employees have been trained to function according to principles of military hierarchy.  However, the modern battlefield rewards speed and agility over fixed processes or rigid structures.  "
+89,Proxy Data 2,Recommendation: Discuss the pros and cons of speed vs. structure. 
+90,Proxy Data 2,
+91,Proxy Data 2,Result: Commander’s Assessment Program
+92,Proxy Data 3,Proxy Assessment Report 25-1
+93,Proxy Data 3,
+94,Proxy Data 3,Controlled by: TEXT2
+95,Proxy Data 3,Controlled by: TEXT3
+96,Proxy Data 3,CUI Categories: TEXT4
+97,Proxy Data 3,Distribution/Dissemination Control: TEXT5
+98,Proxy Data 3,POC: TEXT6
+99,Proxy Data 3,
+100,Proxy Data 3,"This Assessment Report contains three information main blocks, with subtopics added by individuals as required.  Subtopics are divided into three sections."
+101,Proxy Data 3,
+102,Proxy Data 3,
+103,Proxy Data 3,BLOCK 1
+104,Proxy Data 3,
+105,Proxy Data 3,11. Topic: FIRST SUB TOPIC.  NUMBERING MAY BE INCONSITENT.  
+106,Proxy Data 3,
+107,Proxy Data 3,Discussion:  The numbering of the subtopics from 01 and on may be inconsistent because they are added by individuals and then emailed to a central person for aggregation.    
+108,Proxy Data 3,
+109,Proxy Data 3,"Recommendation: The Assessment Report should be sent as SharePoint link for work by multiple individuals.  The assessment report, while text dense, should offer a filterable table of the Sub topics, Discussions, Recommendation, and Results."
+110,Proxy Data 3,
+111,Proxy Data 3,Result: Immediate
+112,Proxy Data 3,
+113,Proxy Data 3,12. Topic: SECOND SUB TOPIC. BURIED INFORMATION. 
+114,Proxy Data 3, 
+115,Proxy Data 3,"Discussion: Information entered into Word or PowerPoint is extremely difficult to extract.  Structured data, like that found in Excel tables, is much easier to Extract, Transform, and Load (ETL).  ETL is necessary to use advanced tools like Data Modeling, Pivot Tables, and Slicers.     "
+116,Proxy Data 3,
+117,Proxy Data 3,"Recommendation:  To the maximum extent possible, information should be entered in Excel in structured table format."
+118,Proxy Data 3,
+119,Proxy Data 3,Result: Immediate
+120,Proxy Data 3,
+121,Proxy Data 3,BLOCK 2
+122,Proxy Data 3,
+123,Proxy Data 3,14. Topic:  TRAINING
+124,Proxy Data 3,
+125,Proxy Data 3,"Discussion:  In general, computer skills are weak or outdated.  "
+126,Proxy Data 3,
+127,Proxy Data 3,Recommendation:  Demonstrate the advantages of advanced software tools like Excel Power Query and Power Pivot to general users.    
+128,Proxy Data 3,
+129,Proxy Data 3,Result: Immediate
+130,Proxy Data 3,
+131,Proxy Data 3,BLOCK 3
+132,Proxy Data 3,
+133,Proxy Data 3,16. Topic: FRICTION
+134,Proxy Data 3,"Discussion: While very experienced, most employees have been trained to function according to principles of military hierarchy.  However, the modern battlefield rewards speed and agility over fixed processes or rigid structures.  "
+135,Proxy Data 3,Recommendation: Discuss the pros and cons of speed vs. structure. 
+136,Proxy Data 3,
+137,Proxy Data 3,Result: Commander’s Assessment Program

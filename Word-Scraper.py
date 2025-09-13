@@ -29,4 +29,4 @@ elif file_path.is_file():
 # Save to CSV
 data = {"Document":document_list,"Paragraph":paragraph_list}
 result = pd.DataFrame(data)
-result.to_csv(input_save)
+result.to_csv(input_save, encoding = 'utf-8')
